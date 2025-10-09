@@ -1,0 +1,2 @@
+001760024758
+[{"code":"NAC240B3A","sessions":[{"groupCode":"NAC240B3A","day":1,"start":"10:00","end":"12:00"}]},{"code":"AC2403A","sessions":[{"groupCode":"AC2403A","room":"FPN L4 AC4 LAB 4","day":2,"start":"09:00","end":"11:00"},{"groupCode":"AC2403A","room":"FPN L4 AC4 LAB 4","day":4,"start":"17:00","end":"18:00"}]},{"code":"AC2403B","sessions":[{"groupCode":"AC2403B","room":"FPN L4 AC4 LAB 4","day":3,"start":"14:00","end":"16:00"},{"groupCode":"AC2403B","room":"FPN L4 AC4 LAB 4","day":5,"start":"15:00","end":"17:00"}]}]

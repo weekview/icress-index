@@ -1,0 +1,2 @@
+001760018283
+[{"code":"M3CS2664A","sessions":[{"groupCode":"M3CS2664A","day":1,"start":"10:00","end":"12:00"},{"groupCode":"M3CS2664A","room":"DEWAN KULIAH A","day":4,"start":"17:00","end":"18:00"}]},{"code":"M3CS2664B","sessions":[{"groupCode":"M3CS2664B","day":2,"start":"09:00","end":"11:00"},{"groupCode":"M3CS2664B","room":"DEWAN KULIAH A","day":5,"start":"15:00","end":"17:00"}]},{"code":"M3CS2664C","sessions":[{"groupCode":"M3CS2664C","day":3,"start":"14:00","end":"16:00"},{"groupCode":"M3CS2664C","room":"DEWAN KULIAH A","day":4,"start":"17:00","end":"18:00"}]}]

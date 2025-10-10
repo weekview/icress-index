@@ -1,0 +1,2 @@
+001760076114
+[{"code":"AS1251A","sessions":[{"groupCode":"AS1251A","room":"B2003","day":1,"start":"10:00","end":"12:00"},{"groupCode":"AS1251A","room":"C3024 M.KIM.HID","day":2,"start":"09:00","end":"11:00"},{"groupCode":"AS1251A","room":"A1021 TEC","day":4,"start":"17:00","end":"18:00"}]},{"code":"AS1251B","sessions":[{"groupCode":"AS1251B","room":"A1029 TEC","day":3,"start":"14:00","end":"16:00"},{"groupCode":"AS1251B","room":"A1021 TEC","day":5,"start":"15:00","end":"17:00"},{"groupCode":"AS1251B","room":"C3023 M.NON-ORG 1","day":4,"start":"17:00","end":"18:00"}]}]
